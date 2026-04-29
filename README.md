@@ -56,7 +56,7 @@ PyTorch, TensorFlow, scikit-learn, XGBoost, LangChain, OpenCV, NumPy, Pandas
 - API otomasyonu, veri pipeline'ları
 
 ### Yöntemler & Araçlar
-Agile / Scrum (Scrum Master deneyimi), SDLC, Git/GitHub, Linux,
+Agile / Scrum, SDLC, Git/GitHub, Linux,
 Postman, pyenv & sanal ortam yönetimi
 
 ### Okul Projeleri
