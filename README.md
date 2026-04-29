@@ -2,7 +2,7 @@
 
 **tugceata/tugceata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Merhaba ben Tuğçe Ata, İstanbul Arel Üniversitesinde bilgisayar mühendisliği okuyorum, 3.sınıf öğrencisiyim. İnfina Yazılım'da gönüllü stajyerim. AI/ML ile ilgileniyorum ve Ar-Ge alanında projeler yapıyorum. 
+Merhaba ben Tuğçe Ata, İstanbul Arel Üniversitesinde bilgisayar mühendisliği okuyorum, 3.sınıf öğrencisiyim. İnfina Yazılım'da staj yapmaktayım. AI/ML ile ilgileniyorum ve Ar-Ge alanında projeler yapıyorum. 
 
 Kullandığım/ilgilendiğim teknolojiler:
 
@@ -15,7 +15,7 @@ Kullandığım/ilgilendiğim teknolojiler:
 ### Makine Öğrenmesi & Derin Öğrenme
 
 **Zaman serisi tahmini**
-- Tarımsal emtia fiyat tahmin sistemi (TÜRİB market verisi üzerinde)
+- Tarımsal emtia fiyat tahmin sistemi
 - LSTM, N-BEATS, XGBoost ve hibrit ML/DL mimarileri
 - Klasik regresyon yöntemleriyle karşılaştırmalı benchmark
 
